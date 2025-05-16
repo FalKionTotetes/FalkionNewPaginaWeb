@@ -5,6 +5,10 @@
 #red{
     color: red;
 }
+#potition2{
+    text-align: end;
+    text-align: center;
+}
 #alinearderecha {
   display: block;
   margin-left: auto;

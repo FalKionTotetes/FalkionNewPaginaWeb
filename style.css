@@ -5,6 +5,8 @@
 #red{
     color: red;
 }
-#imagepotition{
-    margin-left: 1920px;
+#alinearderecha {
+  display: block;
+  margin-left: auto;
+  margin-right: 0;
 }
